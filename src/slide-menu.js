@@ -70,7 +70,7 @@ var menu = (function ($) {
 				e.stopPropagation();				
 				var a = $(this).find('> a').attr('href');
 				if(a !== undefined) {
-					window.location = a;	
+					window.location.href = a;	
 				}				
 			});
 		}	
