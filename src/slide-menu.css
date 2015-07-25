@@ -109,7 +109,5 @@ header {
 }
 
 	.back a:before {
-	    content: '\27E9\00a0';
-	    transform: rotate(180deg);
-	    -webkit-transform: rotate(180deg);
+	    content: '\27E8\00a0';
 	}
