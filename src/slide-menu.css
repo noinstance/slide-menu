@@ -37,6 +37,7 @@ header {
 	color: #fff;
 	font-size: 80px;
 	transition: all 100ms ease-in-out;
+	margin: 0 3%;
 }
 
 	.menu-toggle.active {
