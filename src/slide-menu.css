@@ -74,7 +74,7 @@ header {
 	}
 
 	.menu li.parent:after { 
-		content: '\27E9';
+		content: '>';
 		float: right;
 	}
 
@@ -109,5 +109,5 @@ header {
 }
 
 	.back a:before {
-	    content: '\27E8\00a0';
+	    content: '< ';
 	}
