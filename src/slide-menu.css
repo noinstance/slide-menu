@@ -76,6 +76,7 @@ header {
 	.menu li.parent:after { 
 		content: '>';
 		float: right;
+		font-family: monospace;
 	}
 
 	.menu.out {
@@ -110,4 +111,5 @@ header {
 
 	.back a:before {
 	    content: '< ';
+	    font-family: monospace;
 	}
